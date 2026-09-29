@@ -23,9 +23,6 @@ A fictional online game store landing page, built to practice HTML and CSS layou
 
 No installation or build steps needed.
 
-## Live Demo
-[Add your GitHub Pages link here once enabled]
-
 ## Concepts Practiced
 Responsive grid layouts, Flexbox navigation, hover transitions, semantic HTML, CSS custom properties for a consistent color theme
 
